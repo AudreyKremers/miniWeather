@@ -17,9 +17,8 @@
 - J-P Scheppers : Web developer => API; VueJS code and final HTML, [Bootsrap](https://getbootstrap.com/) & CSS integration.
 - Audrey Kremers : Web designer => Layout Figma; HTML, Bootsrap & CSS draft; Read me writing.
 
-### Links   
-
-- [Layout Figma](https://www.figma.com/file/aSelmLcluY4ggFNiS0xX1nx6/miniWeather?node-id=0%3A1)     
+### Link   
+      
 - [miniWeather App](https://jpscheppers.github.io/miniWeather/)    
 
 ### Layouts :     
